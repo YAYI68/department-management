@@ -26,7 +26,7 @@ exports.AppModule = AppModule = __decorate([
             }),
             graphql_1.GraphQLModule.forRoot({
                 driver: apollo_1.ApolloDriver,
-                autoSchemaFile: (0, path_1.join)(process.cwd(), 'src/schema.gql'),
+                autoSchemaFile: (0, path_1.join)(process.cwd(), "src/schema.gql"),
                 sortSchema: true,
                 graphiql: true,
             }),

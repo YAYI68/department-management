@@ -46,10 +46,11 @@ Finally, you can run the project in development mode:
 npm run start:dev
 ```
 it will be accessible at http://localhost:3000.
+here is the live URL: https://department-management-3gc2.onrender.com
 
 ## Testing the Graphql Api 
 You can use desktop postman or the live postman to test your queries,
-here is the link to [**view the api**](https://documenter.getpostman.com/view/31453748/2sA35BbQ7i)
+here is the link to [**view the api**](https://documenter.getpostman.com/view/14724403/2sB2j4eVkL) documentation
 
 ## Conclusion 
 You have successfully setup the project
